@@ -1,0 +1,9 @@
+[submodule "CAN-blink/libraries/FlexCAN_Library"]
+	path = CAN-blink/libraries/FlexCAN_Library
+	url = git@github.com:pawelsky/FlexCAN_Library.git
+[submodule "CAN-blink/libraries/FSAE-2017-Common"]
+	path = CAN-blink/libraries/FSAE-2017-Common
+	url = git@github.com:joshjet/FSAE-2017-Common.git
+[submodule "CAN-blink/libraries/TeensyThreads"]
+	path = CAN-blink/libraries/TeensyThreads
+	url = git@github.com:ftrias/TeensyThreads.git
